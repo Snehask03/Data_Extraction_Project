@@ -8,4 +8,4 @@ This project involves extracting data from the IMDb website using a web scraping
 
 **Movie Details**: Retrieves information like movie names, ratings, ranks, and duration. 
 
-**Uses**: Can be used for churn predictions. has it scraped the data about the most popular movies?
+**Uses**: Can be used for churn predictions. has it scraped the data about the most popular movies.
